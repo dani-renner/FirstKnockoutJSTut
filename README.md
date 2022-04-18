@@ -1,0 +1,1 @@
+#### this app was made following a <a href="http://learn.knockoutjs.com/#/?tutorial=intro">tutorial</a>
